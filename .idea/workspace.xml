@@ -2,109 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fa9eb19-ab81-4d48-9eb4-22ed1d1eea28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/loadJsonTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/eStartup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/eStartup.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactform/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/contactform/Readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactform/contactform.js" beforeDir="false" afterPath="$PROJECT_DIR$/contactform/contactform.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/scss-files.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/scss-files.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Onsen.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Onsen.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/about-img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/angular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/angular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/banner-shap1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/banner-shap1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/blog-image-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/blog-image-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/blog-image-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/blog-image-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/blog-image-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/blog-image-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/download.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/download.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ext.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/ext.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/fork.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/fork.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/fork.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/fork.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hero-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hero-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero-img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/html-.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/html-.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/html.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/html.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mobil.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mobil.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsletter-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsletter-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/nodejs-icon-logo-png-transparent.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/nodejs-icon-logo-png-transparent.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/onsen_with_text.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/onsen_with_text.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/onsenui_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/onsenui_01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/phone.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/phonon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/phonon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/php.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/php.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pp.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/pp.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screen/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screen/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screen/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screen/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screen/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screen/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screen/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screen/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screen/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/svg/asteroid.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/asteroid.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/svg/cloud-computing.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/cloud-computing.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/svg/cloud.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/cloud.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/svg/code.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/code.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/svg/design-tool.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/design-tool.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/svg/paint-palette.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/paint-palette.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/svg/pixel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/pixel.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/svg/planet.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/planet.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/svg/tools.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/tools.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/svg/vector.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/vector.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/video-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/video-bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/animate/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/animate/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/animate/animate.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/animate/animate.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/easing/easing.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/easing/easing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/easing/easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/easing/easing.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jquery/jquery-migrate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/jquery/jquery-migrate.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/jquery/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/modal-video/css/modal-video.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/modal-video/css/modal-video.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/modal-video/js/modal-video.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/modal-video/js/modal-video.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/modal-video/js/modal-video.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/modal-video/js/modal-video.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/ajax-loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/ajax-loader.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.carousel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.carousel.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.default.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.default.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.default.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.default.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.green.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.green.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.green.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.green.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.video.play.png" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.video.play.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/links.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/links.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/owl.carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/owl.carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/owl.carousel.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/superfish/hoverIntent.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/superfish/hoverIntent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/superfish/superfish.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/superfish/superfish.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/superfish/superfish.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/superfish/superfish.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/wow/wow.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wow/wow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/wow/wow.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wow/wow.min.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -172,13 +71,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="2020" />
+          <entry key="html" value="2161" />
           <entry key="json" value="367" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="2020" />
+          <entry key="HTML" value="2161" />
           <entry key="JSON" value="367" />
         </counts>
       </usages-collector>
@@ -210,8 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="1466" column="14" lean-forward="true" selection-start-line="1466" selection-start-column="14" selection-end-line="1466" selection-end-column="14" />
+            <state relative-caret-position="248">
+              <caret line="1113" column="108" selection-start-line="1113" selection-start-column="108" selection-end-line="1113" selection-end-column="108" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -229,6 +128,7 @@
                 <element signature="n#style#0;n#h4#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -259,11 +159,10 @@
                 <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#5;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#2;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#p#0;n#div#0;n#div#2;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -311,6 +210,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -320,9 +220,9 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/app2/package.json" />
         <option value="$PROJECT_DIR$/app1/package.json" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/loadJsonTest.html" />
         <option value="$PROJECT_DIR$/test/loadJsonTest.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -422,8 +322,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2345946" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002767" side_tool="true" weight="0.2345946" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4997233" visible="true" weight="0.2345946" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -564,8 +464,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="1466" column="14" lean-forward="true" selection-start-line="1466" selection-start-column="14" selection-end-line="1466" selection-end-column="14" />
+        <state relative-caret-position="248">
+          <caret line="1113" column="108" selection-start-line="1113" selection-start-column="108" selection-end-line="1113" selection-end-column="108" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -583,6 +483,7 @@
             <element signature="n#style#0;n#h4#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -613,11 +514,10 @@
             <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#5;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#2;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#p#0;n#div#0;n#div#2;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
