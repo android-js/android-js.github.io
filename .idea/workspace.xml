@@ -2,106 +2,109 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fa9eb19-ab81-4d48-9eb4-22ed1d1eea28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/eStartup.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contactform/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contactform/contactform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/scss-files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Onsen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/about-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/angular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/banner-shap1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/blog-image-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/blog-image-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/blog-image-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ext.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/fork.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/fork.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hero-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hero-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/html-.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/html.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mobil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/newsletter-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/nodejs-icon-logo-png-transparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/onsen_with_text.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/onsenui_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/phonon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/php.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pp.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/screen/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/screen/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/screen/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/screen/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/screen/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/screen/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/screen/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/screen/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/screen/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg/asteroid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg/cloud-computing.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg/cloud.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg/code.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg/design-tool.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg/paint-palette.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg/pixel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg/planet.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg/tools.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg/vector.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/team/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/team/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/team/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/team/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/video-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/animate/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/animate/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/easing/easing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/easing/easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jquery/jquery-migrate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/modal-video/css/modal-video.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/modal-video/js/modal-video.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/modal-video/js/modal-video.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/links.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/superfish/hoverIntent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/superfish/superfish.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/superfish/superfish.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/wow/wow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/wow/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/loadJsonTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/eStartup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/eStartup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactform/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/contactform/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactform/contactform.js" beforeDir="false" afterPath="$PROJECT_DIR$/contactform/contactform.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/scss-files.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/scss-files.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Onsen.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Onsen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/about-img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/angular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/angular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner-shap1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/banner-shap1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog-image-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/blog-image-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog-image-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/blog-image-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog-image-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/blog-image-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/download.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/download.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ext.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/ext.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/fork.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/fork.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/fork.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/fork.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hero-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hero-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero-img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/html-.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/html-.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/html.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/html.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mobil.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mobil.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/newsletter-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsletter-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/nodejs-icon-logo-png-transparent.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/nodejs-icon-logo-png-transparent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/onsen_with_text.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/onsen_with_text.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/onsenui_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/onsenui_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/phonon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/phonon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/php.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/php.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pp.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/pp.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/screen/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/screen/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/screen/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/screen/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/screen/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/screen/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/screen/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/screen/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/screen/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/asteroid.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/asteroid.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/cloud-computing.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/cloud-computing.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/cloud.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/cloud.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/code.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/code.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/design-tool.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/design-tool.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/paint-palette.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/paint-palette.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/pixel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/pixel.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/planet.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/planet.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/tools.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/tools.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/vector.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/vector.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/video-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/video-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/animate/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/animate/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/animate/animate.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/animate/animate.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/easing/easing.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/easing/easing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/easing/easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/easing/easing.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jquery/jquery-migrate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/jquery/jquery-migrate.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/modal-video/css/modal-video.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/modal-video/css/modal-video.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/modal-video/js/modal-video.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/modal-video/js/modal-video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/modal-video/js/modal-video.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/modal-video/js/modal-video.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/ajax-loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/ajax-loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.carousel.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.default.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.default.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.default.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.green.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.green.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.green.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.theme.green.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.video.play.png" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/assets/owl.video.play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/links.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/links.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/owl.carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/owl.carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/owlcarousel/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/owlcarousel/owl.carousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/superfish/hoverIntent.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/superfish/hoverIntent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/superfish/superfish.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/superfish/superfish.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/superfish/superfish.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/superfish/superfish.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/wow/wow.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wow/wow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/wow/wow.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wow/wow.min.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,9 +116,11 @@
     <session id="-980979787">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.24" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -123,6 +128,7 @@
           <entry key="css" value="7" />
           <entry key="html" value="1" />
           <entry key="jpg" value="2" />
+          <entry key="md" value="1" />
           <entry key="png" value="4" />
           <entry key="rnc" value="1" />
           <entry key="txt" value="1" />
@@ -133,6 +139,7 @@
           <entry key="CSS" value="7" />
           <entry key="HTML" value="1" />
           <entry key="Image" value="6" />
+          <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="RNG Compact" value="1" />
         </counts>
@@ -152,14 +159,59 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1173737715">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="2020" />
+          <entry key="json" value="367" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="2020" />
+          <entry key="JSON" value="367" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="4" />
+          <entry key="fuse_hidden0000016600000001" value="1" />
+          <entry key="fuse_hidden0000016600000002" value="1" />
+          <entry key="html" value="4" />
+          <entry key="jpeg" value="1" />
+          <entry key="jpg" value="1" />
+          <entry key="json" value="6" />
+          <entry key="png" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="4" />
+          <entry key="Image" value="4" />
+          <entry key="JSON" value="6" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="308">
+              <caret line="1466" column="14" lean-forward="true" selection-start-line="1466" selection-start-column="14" selection-end-line="1466" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -177,27 +229,76 @@
                 <element signature="n#style#0;n#h4#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#41766#41772#0" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#foreignObject#0;n#switch#0;n#g#0;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#0;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#0;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#0;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#foreignObject#0;n#switch#0;n#g#1;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#1;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#1;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#1;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#foreignObject#0;n#switch#0;n#g#2;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#2;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#2;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#2;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#foreignObject#0;n#switch#0;n#g#3;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#3;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#3;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#3;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#foreignObject#0;n#switch#0;n#g#4;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#4;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#4;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#4;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#foreignObject#0;n#switch#0;n#g#5;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#5;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#5;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#5;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+        <entry file="file://$PROJECT_DIR$/test/loadJsonTest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
-              <caret line="265" column="2" selection-start-line="265" selection-start-column="2" selection-end-line="265" selection-end-column="28" />
+            <state relative-caret-position="330">
+              <caret line="53" column="88" lean-forward="true" selection-start-line="53" selection-start-column="88" selection-end-line="53" selection-end-column="88" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="package.json" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -206,6 +307,7 @@
       <find>newsletter-bg.jpg</find>
       <find>androidjs</find>
       <find>insta</find>
+      <find>icon</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -215,7 +317,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app2/package.json" />
+        <option value="$PROJECT_DIR$/app1/package.json" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/loadJsonTest.html" />
+        <option value="$PROJECT_DIR$/test/loadJsonTest.html" />
       </list>
     </option>
   </component>
@@ -225,10 +332,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="477" />
-    <option name="y" value="-4" />
-    <option name="width" value="928" />
+    <option name="x" value="259" />
+    <option name="y" value="27" />
+    <option name="width" value="918" />
     <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -245,11 +357,6 @@
               <item name="eStartup" type="b2602c69:ProjectViewProjectNode" />
               <item name="eStartup" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="eStartup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eStartup" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -257,10 +364,21 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/chrome-ext" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app2" />
+      <recent name="$PROJECT_DIR$/app1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -288,9 +406,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1580984" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16657443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -304,7 +423,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.22280335" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2345946" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -343,9 +462,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/favicon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/apple-touch-icon.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -365,30 +481,6 @@
     <entry file="file://$PROJECT_DIR$/img/newsletter-bg.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="265" column="2" selection-start-line="265" selection-start-column="2" selection-end-line="265" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/bootstrap/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="5" column="6542" selection-start-line="5" selection-start-column="6542" selection-end-line="5" selection-end-column="6542" />
-          <folding>
-            <element signature="e#58844#59044#2" expanded="true" />
-            <element signature="e#59252#59401#2" expanded="true" />
-            <element signature="e#59903#60049#2" expanded="true" />
-            <element signature="e#60350#60516#1" expanded="true" />
-            <element signature="e#72112#72355#2" expanded="true" />
-            <element signature="e#73222#73471#2" expanded="true" />
-            <element signature="e#100341#100531#2" expanded="true" />
-            <element signature="e#100577#100767#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -399,10 +491,81 @@
     <entry file="file://$PROJECT_DIR$/img/php.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="5" column="6542" selection-start-line="5" selection-start-column="6542" selection-end-line="5" selection-end-column="6542" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/app1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/fork.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app1/.fuse_hidden0000016600000001">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app1/my_story.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app1/.fuse_hidden0000016600000002">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="668" column="2" lean-forward="true" selection-start-line="668" selection-start-column="2" selection-end-line="668" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app1/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app2/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/loadJsonTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="53" column="88" lean-forward="true" selection-start-line="53" selection-start-column="88" selection-end-line="53" selection-end-column="88" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="308">
+          <caret line="1466" column="14" lean-forward="true" selection-start-line="1466" selection-start-column="14" selection-end-line="1466" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -420,12 +583,41 @@
             <element signature="n#style#0;n#h4#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#41766#41772#0" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#foreignObject#0;n#switch#0;n#g#0;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#0;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#0;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#0;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#foreignObject#0;n#switch#0;n#g#1;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#1;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#1;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#1;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#foreignObject#0;n#switch#0;n#g#2;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#2;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#2;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#2;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#foreignObject#0;n#switch#0;n#g#3;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#3;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#3;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#3;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#foreignObject#0;n#switch#0;n#g#4;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#4;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#4;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#4;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#foreignObject#0;n#switch#0;n#g#5;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#5;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#5;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#foreignObject#0;n#switch#0;n#g#5;n#g#0;n#svg#0;n#figure#0;n#div#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
