@@ -1097,7 +1097,7 @@ Supported frameworks
     <div class="container">
         <div class="section-title text-center">
             <h2>App showcase</h2>
-            <p class="separator">Apps Build on Android JS.</p>
+            <p class="separator">Apps Built on Android JS.</p>
         </div>
     </div>
 
@@ -1110,103 +1110,29 @@ Supported frameworks
                     <img v-bind:src="app.app_dir+app.icon" alt="img" class="img-fluid">
                     <h4>{{app.name}}</h4>
 
-                     <p style="margin-bottom: 10px" v-if="app.description">{{app.description.substring(0,25)+".."}}</p>
+                     <!--<p style="margin-bottom: 10px" v-if="app.description">{{app.description.substring(0,25)+".."}}</p>-->
+                     <p style="margin-bottom: 10px" v-if="app.description">{{getShortStr(app.description, 28)}}</p>
                     <a class="btn btn-get-started" style="color: #1c7430;border-color: #1c7430" :href="app.apk">Download</a>
 
                 </div>
             </div>
 
-            <div class="col-md-6 col-lg-3">
-                <div class="" style="height: calc(100% - 30px);">
-                    <a class="btn btn-get-started" style="color: #1c7430;border-color: #1c7430;margin-top: 30%;" target="_blank" href="https://github.com/android-js/app-showcase">View more apps</a>
-                    <a href="https://github.com/android-js/app-showcase" style="text-decoration-line: none;" target="_blank"> Submit your app </a>
-                </div>
-            </div>
-
+            <!--<div class="col-md-6 col-lg-3">-->
+                <!--<div class="" style="height: calc(100% - 30px);">-->
+                    <!--<a class="btn btn-get-started" style="color: #1c7430;border-color: #1c7430;margin-top: 30%;" target="_blank" href="https://github.com/android-js/app-showcase">View more apps</a>-->
+                    <!--<a href="https://github.com/android-js/app-showcase" style="text-decoration-line: none;" target="_blank"> Submit your app </a>-->
+                <!--</div>-->
+            <!--</div>-->
         </div>
-
-
-        <!--<div class="container">-->
-        <!--<div class="row">-->
-
-        <!--<div class="col-md-6 col-lg-3 card-3">-->
-        <!--<div class="feature-block shadow">-->
-        <!--<img src="https://raw.githubusercontent.com/android-js/app-showcase/master/my_story/my_story.png"-->
-        <!--alt="img" class="img-fluid">-->
-        <!--&lt;!&ndash;<img src="img/ext.jpeg" alt="img" class="img-fluid" style="width: 300px; height: 90px">&ndash;&gt;-->
-        <!--&lt;!&ndash;<img src="img/download.png" alt="img" class="img-fluid">&ndash;&gt;-->
-        <!--<h4>-->
-        <!--<a href="https://github.com/android-js/app-showcase/tree/master/my_story"-->
-        <!--style="text-decoration-line: none" target="_blank"> My Story </a>-->
-        <!--</h4>-->
-        <!--&lt;!&ndash;<p>Android JS uses android-webview so you can build your app with HTML, CSS, and JavaScript</p>&ndash;&gt;-->
-        <!--</div>-->
-        <!--</div>-->
-        <!--<div class="col-md-6 col-lg-3 card-3">-->
-        <!--<div class="feature-block shadow">-->
-        <!--<img src="./img/app2.png" alt="img" class="img-fluid">-->
-        <!--&lt;!&ndash;<img src="img/ext.jpeg" alt="img" class="img-fluid" style="width: 300px; height: 90px">&ndash;&gt;-->
-        <!--&lt;!&ndash;<img src="img/download.png" alt="img" class="img-fluid">&ndash;&gt;-->
-        <!--<h4>My Music</h4>-->
-        <!--&lt;!&ndash;<p>Android JS uses android-webview so you can build your app with HTML, CSS, and JavaScript</p>&ndash;&gt;-->
-        <!--</div>-->
-        <!--</div>-->
-
-        <!--&lt;!&ndash;<div class="col-md-6 col-lg-3 card-3">&ndash;&gt;-->
-        <!--&lt;!&ndash;<div class="feature-block shadow">&ndash;&gt;-->
-        <!--&lt;!&ndash;<img src="./img/app3.png" alt="img" class="img-fluid">&ndash;&gt;-->
-        <!--&lt;!&ndash;&lt;!&ndash;<img src="img/ext.jpeg" alt="img" class="img-fluid" style="width: 300px; height: 90px">&ndash;&gt;&ndash;&gt;-->
-        <!--&lt;!&ndash;&lt;!&ndash;<img src="img/download.png" alt="img" class="img-fluid">&ndash;&gt;&ndash;&gt;-->
-        <!--&lt;!&ndash;<h4>Chat App</h4>&ndash;&gt;-->
-        <!--&lt;!&ndash;&lt;!&ndash;<p>Android JS uses android-webview so you can build your app with HTML, CSS, and JavaScript</p>&ndash;&gt;&ndash;&gt;-->
-        <!--&lt;!&ndash;</div>&ndash;&gt;-->
-        <!--&lt;!&ndash;</div>&ndash;&gt;-->
-
-        <!--<div class="col-md-6 col-lg-3">-->
-        <!--<div style="margin-top: 70px">-->
-        <!--<a class="btn btn-get-started" style="color: #1c7430;border-color: #1c7430" target="_blank"-->
-        <!--href="https://github.com/android-js/app-showcase">More</a>-->
-        <!--&lt;!&ndash;<img src="./img/app3.gif" alt="img" class="img-fluid">&ndash;&gt;-->
-        <!--&lt;!&ndash;<img src="img/ext.jpeg" alt="img" class="img-fluid" style="width: 300px; height: 90px">&ndash;&gt;-->
-        <!--&lt;!&ndash;<img src="img/download.png" alt="img" class="img-fluid">&ndash;&gt;-->
-        <!--&lt;!&ndash;<h4>Web Technologies</h4>&ndash;&gt;-->
-        <!--&lt;!&ndash;<p>Android JS uses android-webview so you can build your app with HTML, CSS, and JavaScript</p>&ndash;&gt;-->
-        <!--</div>-->
-        <!--</div>-->
-
-        <!--&lt;!&ndash;<div class="col-md-6 col-lg-3">&ndash;&gt;-->
-        <!--&lt;!&ndash;<div class="feature-block">&ndash;&gt;-->
-        <!--&lt;!&ndash;<img src="img/svg/asteroid.svg" alt="img" class="img-fluid">&ndash;&gt;-->
-        <!--&lt;!&ndash;<h4>Free Updates</h4>&ndash;&gt;-->
-        <!--&lt;!&ndash;<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>&ndash;&gt;-->
-        <!--&lt;!&ndash;</div>&ndash;&gt;-->
-        <!--&lt;!&ndash;</div>&ndash;&gt;-->
-
-        <!--&lt;!&ndash;<div class="col-md-6 col-lg-3">&ndash;&gt;-->
-        <!--&lt;!&ndash;<div class="feature-block">&ndash;&gt;-->
-        <!--&lt;!&ndash;<img src="img/svg/cloud-computing.svg" alt="img" class="img-fluid">&ndash;&gt;-->
-        <!--&lt;!&ndash;<h4>App store support</h4>&ndash;&gt;-->
-        <!--&lt;!&ndash;<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>&ndash;&gt;-->
-        <!--&lt;!&ndash;</div>&ndash;&gt;-->
-        <!--&lt;!&ndash;</div>&ndash;&gt;-->
-
-        <!--&lt;!&ndash;<div class="col-md-6 col-lg-3">&ndash;&gt;-->
-        <!--&lt;!&ndash;<div class="feature-block">&ndash;&gt;-->
-        <!--&lt;!&ndash;<img src="img/svg/pixel.svg" alt="img" class="img-fluid">&ndash;&gt;-->
-        <!--&lt;!&ndash;<h4>Perfect Pixel</h4>&ndash;&gt;-->
-        <!--&lt;!&ndash;<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>&ndash;&gt;-->
-        <!--&lt;!&ndash;</div>&ndash;&gt;-->
-        <!--&lt;!&ndash;</div>&ndash;&gt;-->
-
-        <!--&lt;!&ndash;<div class="col-md-6 col-lg-3">&ndash;&gt;-->
-        <!--&lt;!&ndash;<div class="feature-block">&ndash;&gt;-->
-        <!--&lt;!&ndash;<img src="img/svg/code.svg" alt="img" class="img-fluid">&ndash;&gt;-->
-        <!--&lt;!&ndash;<h4>clean codes</h4>&ndash;&gt;-->
-        <!--&lt;!&ndash;<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>&ndash;&gt;-->
-        <!--&lt;!&ndash;</div>&ndash;&gt;-->
-        <!--&lt;!&ndash;</div>&ndash;&gt;-->
-
-        <!--</div>-->
+    </div>
+    <div class="container">
+        <div class="section-title text-center">
+            <p class="separator">
+                <a href="https://github.com/android-js/app-showcase" style="text-decoration-line: none" target="_blank"> View more apps</a>
+                or
+                <a href="https://github.com/android-js/app-showcase" style="text-decoration-line: none" target="_blank"> Submit your app</a>
+            </p>
+        </div>
     </div>
 </section>
 
@@ -1488,6 +1414,14 @@ Supported frameworks
                         .catch(function (error) {
                             console.log(error)
                         })
+                },
+
+                getShortStr(s, n) {
+                    if(s.length > n-3){
+                        return s.substring(0,n-3) + '...';
+                    }else {
+                        return s;
+                    }
                 }
             },
             componets: {
