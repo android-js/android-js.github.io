@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <link type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.1.10/vue.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.16.2/axios.min.js"></script>
+
+</head>
+<body>
+
+
+<div id="app">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-6">
+
+                <div class="list" v-for="(app, index) in apps">
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <figure>
+                                <img class="img-circle" v-bind:src="app.app_dir+app.icon" style="width: 200px"/>
+                            </figure>
+                        </div>
+                        <div class="col-sm-10">
+                            <h4>
+                                {{app.name}}
+                            </h4>
+                            <p>{{app.version}}</p>
+                            <p>{{app.apk}}</p>
+                        </div>
+                    </div>
+                    <h1 v-if="index == apps.length-1">
+                        {{index}}
+                    </h1>
+                </div>
+
+
+            </div>
+            <div class="col-xs-6">
+                <h1>Json</h1>
+                <pre>{{apps | Json}}</pre>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script>
+
+    // var loadDir = "https://raw.githubusercontent.com/android-js/app-showcase/master/";
+    var loadDir = "https://raw.githubusercontent.com/DeveshPankaj/app-showcase/master/";
+    // var loadDir = "http://192.168.43.234:8080/";
+    var appsList = "package.json";
+    var packageName = "package.json";
+
+    var url = loadDir + appsList;
+    var VueApp = new Vue({
+            el: "#app",
+            created: function () {
+                this.getAppList();
+            },
+            data: {
+                loadApps: 5,
+                apps: []
+            },
+
+            methods: {
+                getAppList: function () {
+                    axios.get(url)
+                        .then(res => {
+                            // console.log(res.data);
+                            // this.apps = res.data;
+                            this.loadApps = res.data.loadApps;
+                            for (let i = 0; i < this.loadApps && i < res.data.appList.length; i++) {
+                                let app_dir = loadDir + res.data.appList[i]+ '/';
+                                let app_pkg = app_dir + packageName;
+                                axios.get(app_pkg).then(app => {
+                                    this.apps.push({... app.data, app_dir});
+                                });
+                            }
+                        })
+                        .catch(function (error) {
+                            console.log(error)
+                        })
+                }
+            },
+            componets: {
+                // 'todo-item':{}
+            },
+        }
+    )
+</script>
+
+<style type="text/css">
+    .list {
+        list-style-type: none;
+        color: #666;
+        font-family: Roboto;
+        padding: 10px;
+        margin-bottom: 8px;
+        box-shadow: 2px 2px 4px #eee;
+        border-radius: 4px;
+        display: block;
+        overflow: hidden;
+        box-sizing: border-box;
+        border: 1px solid #CCC;
+    }
+</style>
+
+</body>
+</html>
